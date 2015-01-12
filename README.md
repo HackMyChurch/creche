@@ -20,7 +20,7 @@ Chacun de ces lieux permet de lancer un fichier audio.
 Installer Linux Ubuntu avec Apache2 et php. Pour plus de précision, reportez vous au forum Ubuntu http://doc.ubuntu-fr.org/lamp
 
 ### code
-cloner le répository "creche" `git clone https://github.com/HackMyChurch/creche`
+cloner le répository "creche" `git clone https://github.com/HackMyChurch/creche.git`
 
 ### Apache2
 
